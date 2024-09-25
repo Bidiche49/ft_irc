@@ -1,8 +1,9 @@
-Here’s a README for your `ft_irc` project without the bonus features:
 
 ---
 
 # ft_irc
+
+**Developed with @augustin06130 @spookier**
 
 ## Description
 
